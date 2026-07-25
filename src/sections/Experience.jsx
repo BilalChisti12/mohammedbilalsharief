@@ -12,20 +12,20 @@ const experiences = [
     description:
       "CGPA: 8.35/10. GATE 2026 Qualified – Computer Science and Information Technology (CSIT), national top-percentile placement. Core coursework in DSA, OOP, OS, DBMS, Computer Networks.",
   },
-  // {
-  //   role: "Independent Software Developer",
-  //   company: "Personal Projects (Remote)",
-  //   duration: "Jan 2025 – Present",
-  //   description:
-  //     "Built 5 production-grade projects from scratch: AI-powered chat app (OpenAI API), smart campus parking system (Docker, JWT, QR), real-time video platform (WebRTC), CLI version control system, and a JavaFX desktop GPA calculator.",
-  // },
   {
-    role: "Crowd Management Head",
-    company: "EduYouth Meet 2024 – GITAM University",
-    duration: "2024",
+    role: "Independent Software Developer",
+    company: "Personal Projects (Remote)",
+    duration: "Jan 2025 – Present",
     description:
-      "Led on-ground operations and mentored volunteer sub-teams for a 10,000+ attendee event, managing safety, traffic flow, and escalation handling through strong communication and leadership skills.",
+      "Built 5 production-grade projects from scratch: AI-powered chat app (OpenAI API), smart campus parking system (Docker, JWT, QR), real-time video platform (WebRTC), CLI version control system, and a JavaFX desktop GPA calculator.",
   },
+  // {
+  //   role: "Crowd Management Head",
+  //   company: "EduYouth Meet 2024 – GITAM University",
+  //   duration: "2024",
+  //   description:
+  //     "Led on-ground operations and mentored volunteer sub-teams for a 10,000+ attendee event, managing safety, traffic flow, and escalation handling through strong communication and leadership skills.",
+  // },
 ];
 
 // Reusable component to render each experience item with animations
